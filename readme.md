@@ -55,7 +55,7 @@ Kurulum sonrası güncellemeler otomatik olarak alınır.
 
 ## 🏢 Geliştirici
 
-Bu uygulama **:contentReference[oaicite:0]{index=0}** tarafından geliştirilmektedir.
+Bu uygulama **Barkolink Bilişim** tarafından geliştirilmektedir.
 
 ---
 
