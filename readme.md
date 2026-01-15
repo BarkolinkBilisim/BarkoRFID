@@ -4,7 +4,7 @@
 Uygulama, özellikle depo, lojistik, üretim ve otomasyon senaryolarında RFID tabanlı süreçlerin güvenilir ve kararlı şekilde yürütülmesini hedefler.
 
 Bu depo **yalnızca yayınlanmış kurulum dosyaları ve güncelleme paketlerini** içerir.  
-Kaynak kod özel (private) bir depoda geliştirilmektedir.
+Kaynak kod özel (private) bir repoda geliştirilmektedir.
 
 ---
 
